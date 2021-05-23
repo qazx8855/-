@@ -10,7 +10,7 @@ while True:
     if os.path.exists(filename):
         os.rename(filename, now + r".hoi4")
 
-    time.sleep(10)
+    time.sleep(360)
 
 
  
